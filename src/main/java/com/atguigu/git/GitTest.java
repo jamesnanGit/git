@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("my first git test");
         System.out.println("second git test");
         System.out.println("hot fix test");
+        System.out.println("hot fix1");
     }
 }
