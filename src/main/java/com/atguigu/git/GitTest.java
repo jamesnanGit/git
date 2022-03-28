@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("second git test");
         System.out.println("hot fix test");
         System.out.println("master merge test");
+        System.out.println("hot fix1");
     }
 }
